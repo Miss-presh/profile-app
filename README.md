@@ -1,7 +1,7 @@
 # 📱 My Profile App
 
 A beautifully animated and interactive mobile profile app built with Flutter.  
-It showcases skills, achievements, projects, testimonials, and contact information — all in a smooth, elegant interface.
+It showcases skills, achievements, testimonials, and contact information — all in a smooth, elegant interface.
 
 ---
 
@@ -10,7 +10,6 @@ It showcases skills, achievements, projects, testimonials, and contact informati
 - 📖 **About Me** section with animated intro
 - 🧰 **Skills** display with progress indicators
 - 🏆 **Achievement Badges** with custom icons
-- 🖼️ **Project Gallery** with image carousel
 - 💬 **Testimonials** from collaborators
 - 📩 **Contact Form** with validation
 - 🔗 Social media integration (GitHub, LinkedIn, etc.)
@@ -41,47 +40,46 @@ flutter pub get
 4. Run the app:
 flutter run
 
-📂 Project Structure
-css
-Copy
-Edit
-lib/
+---
+## 📂 Project Structure </br>
+
+lib/</br>
 │
-├── main.dart
-├── widgets/
-│   ├── about_section.dart
-│   ├── skills_section.dart
-│   ├── badge_section.dart
-│   ├── projects_section.dart
-│   ├── gallery_section.dart
-│   ├── testimonial_section.dart
-│   ├── contact_section.dart
+├── main.dart </br>
+├── widgets/ </br>
+│   ├── about_section.dart </br>
+│   ├── skills_section.dart </br>
+│   ├── badge_section.dart </br>
+│   ├── projects_section.dart </br>
+│   ├── gallery_section.dart </br>
+│   ├── testimonial_section.dart </br>
+│   ├── contact_section.dart </br>
 │   └── contact_form.dart
 
+---
+## 🧩 Packages Used
 
-🧩 Packages Used
-flutter_animate
+- flutter_animate
 
-carousel_slider
+- carousel_slider
 
-font_awesome_flutter
+- font_awesome_flutter
 
-url_launcher
+- url_launcher
 
-email_validator
+---
+## 🤝 Contributing
 
-🤝 Contributing
 Contributions, issues and feature requests are welcome!
 Feel free to fork the repo and submit a PR.
 
-📬 Contact
-Eti-ini Precious
-📧 etipreciousdev@gmail.com
-🌐 LinkedIn
-🐙 GitHub
+---
+## 📬 Contact
 
-🪄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+- Eti-ini Precious
+- 📧 preciousgoodtime@gmail.com
+- 🌐 LinkedIn: [Eti-ini Precious](https://www.linkedin.com/in/eti-ini-precious-76601a248/')
+- 🐙 GitHub: [Miss-presh](https://github.com/Miss-presh)
 
-yaml
+
 
